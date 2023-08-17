@@ -90,8 +90,8 @@ $curPage = $APPLICATION->GetCurPage(true);
                             "bitrix:catalog.compare.list",
                             "compare_top",
                             array(
-                                "IBLOCK_TYPE" => "catalog", //Сюда ваш тип инфоблока каталога
-                                "IBLOCK_ID" => "2", //Сюда ваш ID инфоблока каталога
+                                "IBLOCK_TYPE" => "catalog", 
+                                "IBLOCK_ID" => "2", 
                                 "AJAX_MODE" => "N",
                                 "AJAX_OPTION_JUMP" => "N",
                                 "AJAX_OPTION_STYLE" => "Y",
